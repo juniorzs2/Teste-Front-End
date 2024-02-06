@@ -1,4 +1,4 @@
-# TESTE - FRONT-END 📜
+# DESAFIO - FRONT-END 📜
 
 
 ### ⚙️ A missão consiste em criar esta página conforme ilustrado na imagem em anexo: 
